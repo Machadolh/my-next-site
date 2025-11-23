@@ -21,6 +21,7 @@ const education = [
     website: 'https://www.up.pt/flup/pt/',
     status: 'Concluído',
     logo: 'https://machadolh.github.io/luizmachadocurriculo/imagens/porto.png',
+    description: 'O curso confere uma sólida formação de base em conhecimentos na área de sistemas de informação geográfica; desenvolvimento e ordenamento do território; geografia física e humana, urbana e rural; clima; cartografia; geomorfologia; hidrologia; riscos naturais; além de melhorar o entendimento sobre questões sociais, económicas, ambientais e mudanças globais.',
   },
 ];
 
@@ -96,6 +97,14 @@ export const Education = () => {
                         <span>Website da instituição</span>
                       </a>
                     </div>
+
+                    {item.description && (
+                      <div className="mt-4 pt-4 border-t border-border">
+                        <p className="text-sm text-muted-foreground leading-relaxed">
+                          {item.description}
+                        </p>
+                      </div>
+                    )}
                   </div>
                 </div>
               </Card>
