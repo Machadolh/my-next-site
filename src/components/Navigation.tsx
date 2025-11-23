@@ -9,6 +9,7 @@ const navItems = [
   { id: 'education', label: 'Formação' },
   { id: 'experience', label: 'Experiência' },
   { id: 'skills', label: 'Competências' },
+  { id: 'cv', label: 'Currículo' },
 ];
 
 export const Navigation = () => {
