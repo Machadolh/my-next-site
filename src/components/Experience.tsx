@@ -19,7 +19,7 @@ const experiences = [
       'Promover trabalho multidisciplinar e cooperativo da equipa do Radar Social',
     ],
     logo: '/logos/caldas.png',
-    website: 'https://www.cm-caldas-rainha.pt/',
+    website: 'https://www.mcr.pt/',
   },
   {
     title: 'Técnico de SIG/Cartografia',
@@ -51,7 +51,7 @@ const experiences = [
       'Projeto: Mapa de Potencial Solar e Bio-Roofs de Braga',
     ],
     logo: '/logos/lrb.png',
-    website: 'https://www.errelrb.pt/',
+    website: 'https://lrb.pt/',
   },
   {
     title: 'Engenheiro Projetista',
