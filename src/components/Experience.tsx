@@ -18,7 +18,7 @@ const experiences = [
       'Realizar estudos, mapear recursos e elaborar relatórios',
       'Promover trabalho multidisciplinar e cooperativo da equipa do Radar Social',
     ],
-    logo: 'https://machadolh.github.io/luizmachadocurriculo/imagens/caldas.png',
+    logo: '/logos/caldas.png',
     website: 'https://www.cm-caldas-rainha.pt/',
   },
   {
@@ -34,7 +34,7 @@ const experiences = [
       'Representação rigorosa da posição relativa dos pontos de superfície terrestre',
       'Controle de qualidade do produto final',
     ],
-    logo: 'https://machadolh.github.io/luizmachadocurriculo/imagens/socarto.png',
+    logo: '/logos/socarto.png',
     website: 'https://www.socarto.pt/',
   },
   {
@@ -50,7 +50,7 @@ const experiences = [
       'Colaboração com Câmara Municipal de Braga',
       'Projeto: Mapa de Potencial Solar e Bio-Roofs de Braga',
     ],
-    logo: 'https://machadolh.github.io/luizmachadocurriculo/imagens/erre.png',
+    logo: '/logos/lrb.png',
     website: 'https://www.errelrb.pt/',
   },
   {
@@ -66,7 +66,7 @@ const experiences = [
       'Elaboração de relatórios e apresentações',
       'Gerenciamento e acompanhamento de projetos multidepartamentais',
     ],
-    logo: 'https://machadolh.github.io/luizmachadocurriculo/imagens/byon.png',
+    logo: '/logos/byon.jpg',
     website: 'https://www.byonsolutions.com/',
   },
 ];
