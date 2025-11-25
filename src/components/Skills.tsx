@@ -6,32 +6,32 @@ const skillCategories = [
   {
     icon: Map,
     title: 'SIG e Cartografia',
-    skills: ['ArcGIS', 'QGIS', 'Google Earth Engine', 'Análise Espacial', 'Geoprocessamento'],
+    skills: ['QGIS', 'ArcGIS PRO', 'ArcMap', 'Google Earth', 'Autocad', 'Elaboração e manipulação de cartografia'],
   },
   {
     icon: Database,
-    title: 'Dados e Análise',
-    skills: ['SQL', 'Python', 'R', 'Análise de Dados Geoespaciais', 'Modelação Territorial'],
+    title: 'Microsoft 365 e Office',
+    skills: ['Word', 'Excel', 'PowerPoint', 'Access', 'Relatórios', 'Apresentações', 'Gráficos', 'Base de dados estatísticos'],
   },
   {
     icon: Code,
-    title: 'Desenvolvimento',
-    skills: ['JavaScript', 'HTML/CSS', 'Leaflet', 'Mapbox', 'WebGIS'],
+    title: 'Desenvolvimento e Programação',
+    skills: ['HTML', 'CSS', 'Java', 'Python', 'PostgreSQL', 'Visual Studio Code', 'RStudio (nível básico)'],
   },
   {
     icon: Globe,
-    title: 'Ordenamento do Território',
-    skills: ['Planeamento Urbano', 'Análise Territorial', 'Estudos de Impacto', 'Cartografia Temática'],
+    title: 'Formulários e Recolha de Dados',
+    skills: ['Google Forms', 'Microsoft Forms', 'LimeSurvey', 'Recolha de dados estatísticos'],
   },
   {
     icon: Languages,
     title: 'Idiomas',
-    skills: ['Português (Nativo)', 'Inglês (Avançado)', 'Espanhol (Intermediário)'],
+    skills: ['Português (Nativo)', 'Inglês (A1)', 'Espanhol (A1)'],
   },
   {
     icon: BookOpen,
-    title: 'Competências Transversais',
-    skills: ['Trabalho em Equipa', 'Pensamento Analítico', 'Comunicação', 'Resolução de Problemas', 'Gestão de Projetos'],
+    title: 'Outras Competências',
+    skills: ['Carta de Condução B1 e B', 'Automatização de processos', 'Análise de base de dados', 'Trabalho em equipa'],
   },
 ];
 

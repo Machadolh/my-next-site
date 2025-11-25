@@ -44,10 +44,10 @@ export const About = () => {
           >
             <Card className="p-8 md:p-10 mb-12 shadow-lg hover:shadow-xl transition-shadow duration-300">
               <p className="text-lg leading-relaxed text-muted-foreground">
-                Sou brasileiro, e determinado a alcançar o meu objetivo em ser o primeiro Mestre da família, 
+                Sou brasileiro, determinado a alcançar o meu objetivo em ser o primeiro mestre da família, 
                 decidi em 2017 emigrar para Portugal, após conseguir uma vaga em uma universidade portuguesa, 
-                utilizando a minha nota do Exame Nacional do Ensino Médio Brasileiro (ENEM). Atualmente sou 
-                <span className="text-foreground font-semibold"> Geógrafo</span>, e estou a cursar o{' '}
+                utilizando a nota do Exame Nacional do Ensino Médio Brasileiro. Atualmente sou{' '}
+                <span className="text-foreground font-semibold">Geógrafo</span>, e estou a cursar o{' '}
                 <span className="text-foreground font-semibold">
                   Mestrado em Sistemas de Informação Geográfica e Ordenamento de Território
                 </span>{' '}

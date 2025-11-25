@@ -40,10 +40,8 @@ export const CVDownload = () => {
 
                 <Button size="lg" className="gap-2" asChild>
                   <a 
-                    href="https://machadolh.github.io/luizmachadocurriculo/Curriculo_2025_Luiz_Machado.pdf" 
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    download
+                    href="/Curriculo_2025_Luiz_Machado.pdf" 
+                    download="Curriculo_2025_Luiz_Machado.pdf"
                   >
                     <Download className="w-5 h-5" />
                     Download CV (PDF)
@@ -52,7 +50,7 @@ export const CVDownload = () => {
 
                 <div className="w-full mt-8 border border-border rounded-lg overflow-hidden">
                   <iframe
-                    src="https://machadolh.github.io/luizmachadocurriculo/Curriculo_2025_Luiz_Machado.pdf"
+                    src="/Curriculo_2025_Luiz_Machado.pdf"
                     className="w-full h-[600px] md:h-[800px]"
                     title="Currículo PDF"
                   />
